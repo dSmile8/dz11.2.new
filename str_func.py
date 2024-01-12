@@ -5,3 +5,5 @@ def str_func(line):
 def func_2(line):
     '''Возвращает строку с первой заглавной буквой'''
     return line.title()
+
+#FIX FIX FIX FIX
